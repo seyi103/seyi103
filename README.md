@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seyi103/seyi103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🐧🐧🐧&height=150&color=87CEFA&fontColor=fff)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40)]
 
 
 <a href="https://opgc.me/#/users/seyi103" target="_blank"><img src="https://api.opgc.me/githubs/users/seyi103/tag/?theme=basic" /></a>
