@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img img align="center" style="height:180px" src="https://raw.githubusercontent.com/seyi103/github-stats-transparent/output/generated/languages.svg" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyi103&theme=dracula)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyi103&theme=dracula)
 
 ### 🛠 Languages and Tools
 
