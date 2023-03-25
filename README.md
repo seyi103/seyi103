@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40)](https://git.io/typing-svg)
 
-<a href="(https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="(https://github.com/seyi103)">
-  <img img align="center" style="height:180px" src="https://raw.githubusercontent.com/seyi103/github-stats-transparent/output/generated/languages.svg" />
-</a>
+<a href="(https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seyi103&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyi103&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyi103&theme=dracula)
 
