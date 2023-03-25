@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🐧🐧🐧&height=150&color=87CEFA&fontColor=fff)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
-<a href="https://opgc.me/#/users/seyi103" target="_blank"><img src="https://api.opgc.me/githubs/users/seyi103/tag/?theme=basic" /></a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyi103&exclude_repo=seyi103.github.io&layout=compact&theme=tokyonight" />
 </a>
