@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <a href="s" style="height:180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyi103&exclude_repo=seyi103.github.io&layout=compact&theme=tokyonight" />
 </a>
-<a href="s">
-  <img src="https://raw.githubusercontent.com/seyi103/github-stats-transparent/output/generated/languages.svg" height="180px" width="49.2%" />
+<a href="[s](https://github.com/seyi103">
+  <img img align="center" style="height:180px" src="https://raw.githubusercontent.com/seyi103/github-stats-transparent/output/generated/languages.svg" />
 </a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyi103&theme=dracula)]
