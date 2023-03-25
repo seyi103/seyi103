@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://raw.githubusercontent.com/seyi103/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=seyi103&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyi103&theme=react-dark)]
 
 ### Language
-<code><img alt = "3.1 Python" height="30" src="https://simpleicons.org/icons/c.svg"> C</code>
-<code><img alt = "3.1 Python" height="30" src="https://simpleicons.org/icons/cplusplus.svg"> C++</code>
-<code><img alt = "3.1 Python" height="30" src="https://simpleicons.org/icons/python.svg"> Python</code>
-<code><img alt = "3.1 Python" height="30" src="https://simpleicons.org/icons/javascript.svg"> JavaScript</code>
-<code><img alt = "3.1 Python" height="30" src="https://simpleicons.org/icons/html5.svg"> HTML</code>
+<code><img height="30" src="" fontColor=fff> C</code>
+<code><img height="30" src=""> C++</code>
+<code><img height="30" src=""> Python</code>
+<code><img height="30" src=""> JavaScript</code>
+<code><img height="30" src=""> HTML</code>
 
 #### :pencil2: Study log
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seed14)](https://solved.ac/seed14)
