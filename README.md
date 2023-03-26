@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40&height=120)
 
 
 
