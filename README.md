@@ -26,12 +26,10 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🐧🐧🐧&height=150&color=87CEFA&fontColor=fff)
 
-<a href="(https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seyi103&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyi103&layout=compact&theme=nord&hide_border=true" /></a> 
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?colorfffd&lines=Study+with+me?🐯🐧😆&font=Redressed&size=40&height=100)
 
-
+<a href="(https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=seyi103&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/seyi103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyi103&layout=compact&theme=nord&hide_border=true" /></a> 
 
 ![seyi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=seyi103&theme=dracula)
 
